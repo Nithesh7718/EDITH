@@ -1,0 +1,7 @@
+pyaudio
+SpeechRecognition
+vosk
+pyttsx3
+spacy
+transformers
+pyautogui
